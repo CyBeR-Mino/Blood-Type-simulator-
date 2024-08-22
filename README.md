@@ -1,4 +1,3 @@
-Got it! Here's the README with the original design style:
 
 ---
 
@@ -65,4 +64,4 @@ For any questions, please contact [Y.Yint Aung](mailto:yeyeye1980aung@gmail.com)
 
 ---
 
-This should match the style you prefer!
+
