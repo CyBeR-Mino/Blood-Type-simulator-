@@ -60,7 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions, please contact [Y.Yint Aung](mailto:yeyeye1980aung@gmail.com).
+For any questions, please contact [Y.Yint Aung](mailto:supetgooglr@gmail.com).
 
 ---
 
