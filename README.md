@@ -34,7 +34,7 @@ The alleles are represented as follows:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Genetic-Inheritance-Simulation.git
+   https://github.com/CyBeR-Mino/Blood-Type-simulator-.git
    cd Generation
    ```
 
