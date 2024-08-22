@@ -29,7 +29,6 @@ The alleles are represented as follows:
 1. Clone the repository:
    ```bash
    git clone https://github.com/CyBeR-Mino/Blood-Type-simulator-.git
-   cd Blood-Type-simulator-
    ```
     ```bash
    cd Blood-Type-simulator-
